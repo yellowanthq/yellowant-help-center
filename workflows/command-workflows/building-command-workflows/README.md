@@ -62,13 +62,13 @@ Our first action will be to search for the PagerDuty incident with Id **‘id**�
 
 ![](https://cdn-images-1.medium.com/max/1000/1*yY9FoYGb4NXUKDwkk_Ejhw.png)
 
-Fetching incident details
+_Fetching incident details_
 
 7. In the actions, select **get\_incident**
 
 ![](https://cdn-images-1.medium.com/max/1000/1*Rnoiz46RsZGgamgsI_u2sA.png)
 
-Fetching the incident details from PagerDuty
+_Fetching the incident details from PagerDuty_
 
 The get\_incident command takes one argument, i.e the **incident\_number.** This corresponds to the **id** that we will pass in the argument. 
 
@@ -82,7 +82,7 @@ The PagerDuty **get\_incident** command gives us a bunch of data to use to creat
 
 ![](https://cdn-images-1.medium.com/max/1000/1*b9YyRYB4vpRRLDqD7Ow25g.png)
 
-Creating a JIRA ticket from Pagerduty data
+_Creating a JIRA ticket from Pagerduty data_
 
 It’s time to send a mail to the testing team
 
@@ -90,7 +90,7 @@ It’s time to send a mail to the testing team
 
 ![](https://cdn-images-1.medium.com/max/1000/1*osfade5aH7T6Xn1Olt0_tw.png)
 
-Creating an Email from Pagerduty data
+_Creating an Email from Pagerduty data_
 
 11. Format your **subject** and **message** using the **@** symbol to get data from the PagerDuty command.
 
@@ -102,7 +102,7 @@ Describe the event name — you can add some data from the previous steps using 
 
 ![](https://cdn-images-1.medium.com/max/1000/1*f8k3ZrYVlIE3wOS2_5s4qA.png)
 
-Creating a Google Calendar event
+_Creating a Google Calendar event_
 
 13. Click on **Save.**
 
