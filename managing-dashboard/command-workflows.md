@@ -15,5 +15,5 @@ This contains all the workflows that are available as templates in the YellowAnt
 
 ![](../.gitbook/assets/commandworkflows.jpg)
 
-Start integrating applications.
+
 

@@ -16,5 +16,5 @@ Let's take a look at the step by step process for signing up using Email:
 4. Click on the confirmation link which will take you to a form where you can create your account filling your details: name and password. EMail and Team are already filled in based on the previous information.![](../.gitbook/assets/email2.jpg)
 5. Click on "Start Using YellowAnt" and you will be taken to the YellowAnt dashboard where you can start integrating applications.![](../.gitbook/assets/overview.jpg)
 
-Read How to Integrate Applications.
+
 
