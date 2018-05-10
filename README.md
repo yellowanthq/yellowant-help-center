@@ -4,7 +4,7 @@ YellowAnt is a workplace assistant bot that lets you manage and automate your wo
 
 Since YellowAnt is connected to all your apps, you can create cross application workflows that can be triggered by a YellowAnt command or a background event from one of your apps. These powerful workflows ultimately let you automate a significant chunk of your tasks and take actions with incredible speed thereby reducing your response time to critical events.
 
-If you still haven't, head over to [www.yellowant.com](/www.yellowant.com) to sign up and start using it.
+Head over to [www.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/www.yellowant.com) to sign up!
 
-![](/assets/LandingPage.jpg)
+![](.gitbook/assets/landingpage.jpg)
 
