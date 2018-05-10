@@ -9,12 +9,15 @@ Workflow templates are pre-made workflows that you can find in the YellowAnt Wor
 
 Steps to start using an existing template:
 
-1. Go to the Workflow Marketplace. You can either go directly from the overview panels of the dashboard or either of the workflow panels in the dashboard. ![](../.gitbook/assets/temp1.png)In the overview panel, under event or command workflows, click on "View All". ![](../.gitbook/assets/temp2.png)In the Command Workflows panel, click on "Explore Marketplace" ![](../.gitbook/assets/temp3.png)In the Event Workflows panel, click on "Explore Marketplace"
-2. You will be taken to the workflows page where you can select to either view your workflows or "Explore Marketplace". ![](../.gitbook/assets/temp5.png)
-3. You can now view all the available templates. You can also apply application filters to find specific combinations of applications working together in applications. ![](../.gitbook/assets/temp6.png) Workflows Marketplace ![](../.gitbook/assets/tem7.png) Using application filters to find specific combinations
-4. Click on "Use Template" for whichever workflow you want to start using. It gives you an overview of what the workflow does. ![](../.gitbook/assets/tem8.png)
-5. Click on "Use Template" to view it in the builder. You can edit values as needed by you and hit "Save" and it will create a copy of the workflow for you with any updated details that you may have. ![](../.gitbook/assets/tem9.png)
-6. After that, it's a regular workflow in your account and you can use it the way you like. It does not impact the template in any way.
+1. Go to the Workflow Marketplace. You can either go directly from the overview panels of the dashboard or either of the workflow panels in the dashboard. ![](../.gitbook/assets/temp1.png)
+2. In the overview panel, under event or command workflows, click on "View All". ![](../.gitbook/assets/temp2.png)
+3. In the Command Workflows panel, click on "Explore Marketplace" ![](../.gitbook/assets/temp3.png)
+4. In the Event Workflows panel, click on "Explore Marketplace"
+5. You will be taken to the workflows page where you can select to either view your workflows or "Explore Marketplace". ![](../.gitbook/assets/temp5.png)
+6. You can now view all the available templates. You can also apply application filters to find specific combinations of applications working together in applications. ![](../.gitbook/assets/temp6.png) _Workflows Marketplace_ ![](../.gitbook/assets/tem7.png) _Using application filters to find specific combinations_
+7. Click on "Use Template" for whichever workflow you want to start using. It gives you an overview of what the workflow does. ![](../.gitbook/assets/tem8.png)
+8. Click on "Use Template" to view it in the builder. You can edit values as needed by you and hit "Save" and it will create a copy of the workflow for you with any updated details that you may have. ![](../.gitbook/assets/tem9.png)
+9. After that, it's a regular workflow in your account and you can use it the way you like. It does not impact the template in any way.
 
 ## Publishing your Templates
 
