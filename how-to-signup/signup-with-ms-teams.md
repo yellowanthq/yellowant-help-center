@@ -8,19 +8,23 @@ Let's take a look at the step by step process for signing up using Teams:
 2. Click on **Manage Team**
 3. Click on the **Bot **tab. In the tab, click on **Discover Bots. **Search for **YellowAnt**, and click on the plus**\(+\) **sign next to the YellowAnt bot
 
-![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-21-34-19-804.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 4. Review the permissions and click on **Add**
 
-![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-21-38-23-953.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
-5. Once the YellowAnt bot is added to the Team, YellowAnt will send you a personal message asking you to authorize your Azure account.![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-21-42-12-146%20%281%29.png)
+5. Once the YellowAnt bot is added to the Team, YellowAnt will send you a personal message asking you to authorize your Azure account.
 
-6. Click on **Authenticate **and authenticate your Azure account![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-21-42-12-146.png)
+![](../.gitbook/assets/image%20%2825%29.png)
+
+6. Click on **Authenticate **and authenticate your Azure account
+
+![](../.gitbook/assets/image%20%2842%29.png)
 
 7. You will be taken to the YellowAnt dashboard where you can start integrating applications.
 
-![](../.gitbook/assets/overview.jpg)
+![](../.gitbook/assets/image%20%287%29.png)
 
 8. Go back to **Microsoft Teams** and you will have received a help message to get you started.
 
@@ -30,19 +34,21 @@ Let's take a look at the step by step process for signing up using Teams:
 
 \(ii\) Type **wikipedia**
 
-\(iii\) YellowAnt will show you all commands associated with Wikipedia![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-22-13-54-935.png)
+\(iii\) YellowAnt will show you all commands associated with Wikipedia
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 \(iii\) Under **Fetch summary of article, **click on **Run this command**
 
-\(iv\)YellowAnt will expand the panel and ask for inputs, in this case, the title of the article. 
+\(iv\)YellowAnt will expand the panel and ask for inputs, in this case, the title of the article. Let's put in **Microsoft Teams**
 
-Let's put in **Microsoft Teams:**
-
-![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-22-21-12-240.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 10. Click on **Submit** to execute the command
 
-11. YellowAnt will fetch the summary of the title we entered, ie, **Microsoft!**![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-22-21-44-369.png)
+11. YellowAnt will fetch the summary of the title we entered, ie, **Microsoft!**
+
+![](../.gitbook/assets/image%20%2835%29.png)
 
 12. That is it! This demo is just the tip of the iceberg. You can similarly command from over 35+ applications\(See [Integrating Applications](../integrating-applications/)\), get real time work updates and also create workflows between different applications\(See [Command Workflows](../workflows/command-workflows/) and [Event Workflows](../workflows/event-workflows/)**\) **
 

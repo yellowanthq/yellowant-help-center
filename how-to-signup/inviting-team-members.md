@@ -4,6 +4,11 @@ You can also join an existing team using invitation link sent to you by a team m
 
 Let's look at the process to invite a team member,
 
-1. Go to the settings panel in the YellowAnt dashboard \(Read more about the Dashboard\)![](../.gitbook/assets/invite1.png)
-2. Open "Admin" settings and go to "Team Members" section and fill in the invites' email ids and click "Invite"![](../.gitbook/assets/invite2.png)
+1. Go to the settings panel in the YellowAnt dashboard \(Read more about the Dashboard\) 
+
+![](../.gitbook/assets/image%20%2858%29.png)
+
+2. Open "Admin" settings and go to "Team Members" section and fill in the invites' email ids and click "Invite"
+
+![](../.gitbook/assets/image%20%2862%29.png)
 
