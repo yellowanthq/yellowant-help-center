@@ -34,11 +34,15 @@ Let's take a look at the step by step process for signing up using Teams:
 
 \(iii\) Under **Fetch summary of article, **click on **Run this command**
 
-\(iv\)YellowAnt will expand the panel and ask for inputs, in this case, the title of the article. Let's put in **Microsoft Teams**
+\(iv\)YellowAnt will expand the panel and ask for inputs, in this case, the title of the article. 
+
+Let's put in **Microsoft Teams:**
 
 ![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-22-21-12-240.png)
 
-1. Click on **Submit** to execute the command
-2. YellowAnt will fetch the summary of the title we entered, ie, **Microsoft!**![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-22-21-44-369.png)
-3. That is it! This demo is just the tip of the iceberg. You can similarly command from over 35+ applications\(See [Integrating Applications](../integrating-applications/)\), get real time work updates and also create workflows between different applications\(See [Command Workflows](../workflows/command-workflows/) and [Event Workflows](../workflows/event-workflows/)**\) **
+10. Click on **Submit** to execute the command
+
+11. YellowAnt will fetch the summary of the title we entered, ie, **Microsoft!**![](../.gitbook/assets/screenshot-teams.microsoft.com-2017-12-03-22-21-44-369.png)
+
+12. That is it! This demo is just the tip of the iceberg. You can similarly command from over 35+ applications\(See [Integrating Applications](../integrating-applications/)\), get real time work updates and also create workflows between different applications\(See [Command Workflows](../workflows/command-workflows/) and [Event Workflows](../workflows/event-workflows/)**\) **
 
