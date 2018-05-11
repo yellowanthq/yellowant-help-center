@@ -15,7 +15,7 @@ This section contains all the applications that are already integrated with your
 * Change the application invoke name The invoke name is used to call apps with commands. For example, the default invoke name for GMail is 'gmail' and to send a mail, you must execute the command 'gmail send'. If you change the invoke name from 'gmail' to 'email', the corresponding send mail command becomes 'email send'.
 * Change notifications settings YellowAnt subscribes you to a number of notification for each account of that application. If you don't wish to receive those notifications you can change them individually from here.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 _YellowAnt Application Management Center - Change invoke names and notification settings_.
 
@@ -23,7 +23,7 @@ _YellowAnt Application Management Center - Change invoke names and notification 
 
 This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application. Start integrating applications.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 _YellowAnt Applications Panel in the Dashboard._
 
