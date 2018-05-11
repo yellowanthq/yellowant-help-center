@@ -5,7 +5,15 @@ A collection is a way of segregating workflows into sets in order to keep them m
 **If you create a new event triggered workflow and do not select/create a collection, by default it gets added to a collection called workflow.  
 If you add the workflow to a certain collection, it still makes no difference to the way it is executed \(unlike command workflows\). In event workflows, it is purely a better way to organize your workflows.**
 
-Example 1:![](../../../.gitbook/assets/ex6.png)In this case, the event workflow will add to the collection "workflow" since we did not select/create any collection.
+Example 1:
 
-Example 2:![](../../../.gitbook/assets/ex8.png)In this case, the event workflow will add to the collection "demo-collection".
+![](../../../.gitbook/assets/image%20%28106%29.png)
+
+In this case, the event workflow will add to the collection "workflow" since we did not select/create any collection.
+
+Example 2:
+
+![](../../../.gitbook/assets/image%20%28155%29.png)
+
+In this case, the event workflow will add to the collection "demo-collection".
 

@@ -2,7 +2,7 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
-![](../../.gitbook/assets/image%20%28238%29.png)
+![](../../.gitbook/assets/image%20%28266%29.png)
 
         _YellowAnt Dashboard - Available Applications Panel_
 
@@ -11,29 +11,29 @@
 3. If you are in the Marketplace you can find Pivotal Tracker under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2885%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
 
-![](../../.gitbook/assets/image%20%28256%29.png)
+![](../../.gitbook/assets/image%20%28286%29.png)
 
 5. You will be on the integration page which prompts you to add an account to the application. Click "add account" which takes you to the Pivotal Tracker Access page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
 6. In this step, YellowAnt asks you for the Pivotal Tracker User API Key, Pivotal Tracker Application URL and Username.  
 
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 7. You can find the API Key for Pivotal Tracker in your account. Copy and paste that API Key in the text field on YellowAnt Integration page. Here's how to find your API Token:
 
 \(i\) Go to your settings button and choose "Profile" there.
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
 \(ii\) You will reach your settings page and now scroll down to find your API Key.
 
@@ -41,7 +41,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(iii\) Copy and use this API Key for your YellowAnt Authorization.
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 8. Pivotal Tracker is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

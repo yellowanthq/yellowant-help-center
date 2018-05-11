@@ -8,23 +8,23 @@ Let's take a look at the step by step process for signing up using Teams:
 2. Click on **Manage Team**
 3. Click on the **Bot **tab. In the tab, click on **Discover Bots. **Search for **YellowAnt**, and click on the plus**\(+\) **sign next to the YellowAnt bot
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 4. Review the permissions and click on **Add**
 
-![](../.gitbook/assets/image%20%28248%29.png)
+![](../.gitbook/assets/image%20%28277%29.png)
 
 5. Once the YellowAnt bot is added to the Team, YellowAnt will send you a personal message asking you to authorize your Azure account.
 
-![](../.gitbook/assets/image%20%28127%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 6. Click on **Authenticate **and authenticate your Azure account
 
-![](../.gitbook/assets/image%20%28188%29.png)
+![](../.gitbook/assets/image%20%28210%29.png)
 
 7. You will be taken to the YellowAnt dashboard where you can start integrating applications.
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 8. Go back to **Microsoft Teams** and you will have received a help message to get you started.
 
@@ -36,19 +36,19 @@ Let's take a look at the step by step process for signing up using Teams:
 
 \(iii\) YellowAnt will show you all commands associated with Wikipedia
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 \(iii\) Under **Fetch summary of article, **click on **Run this command**
 
 \(iv\)YellowAnt will expand the panel and ask for inputs, in this case, the title of the article. Let's put in **Microsoft Teams**
 
-![](../.gitbook/assets/image%20%28196%29.png)
+![](../.gitbook/assets/image%20%28220%29.png)
 
 10. Click on **Submit** to execute the command
 
 11. YellowAnt will fetch the summary of the title we entered, ie, **Microsoft!**
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28189%29.png)
 
 12. That is it! This demo is just the tip of the iceberg. You can similarly command from over 35+ applications\(See [Integrating Applications](../integrating-applications/)\), get real time work updates and also create workflows between different applications\(See [Command Workflows](../workflows/command-workflows/) and [Event Workflows](../workflows/event-workflows/)**\) **
 
