@@ -6,7 +6,7 @@
 
 _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -15,7 +15,7 @@ _YellowAnt Marketplace - Search or check out categories_
 3. If you are in the Marketplace you can find Circle CI under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
@@ -26,30 +26,30 @@ _YellowAnt Marketplace - Search or check out categories_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 6. In this step, YellowAnt asks you for the Circle CI User API Key.  
 
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 7. You can find the API Key for Circle CI in your account using the following steps given below. Copy and paste that API Key in the text field on YellowAnt Integration page.
 
 \(i\) Go to User Settings Panel
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
 \(ii\) Go to Personal API Tokens in User Settings and click on Create New Token
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 \(iii\) Give a token name and click "Add API Token"
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 8. Once it generates a new API Token, copy it immediately and paste it in the YellowAnt integration page.
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 9. Circle CI is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
