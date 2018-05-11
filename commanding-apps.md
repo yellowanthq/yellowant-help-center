@@ -18,16 +18,24 @@ Step 4. Your function has been executed.
 For example, if you want to send an email in Gmail all you have to do is click on "run this command" for the send option and then fill in the inputs, like the person's id you are sending the mail to, what the subject is and what the body is followed by which you just hit enter and the mail is sent right from within Slack/any chat app/native console. Let's see the process below.
 
 Step 1. Type "gmail" in YellowAnt DM or "@yellowant gmail" in a channel.  
-![](.gitbook/assets/gmailcommand.png)
+
+
+![](.gitbook/assets/image%20%2847%29.png)
 
 Step 2. Choose the function you would like to execute \(in this case "send" and click on "Run this command" under the chosen function.  
-![](.gitbook/assets/send.png)
+
+
+![](.gitbook/assets/image%20%2881%29.png)
 
 Step 3. Fill in the required fields and hit execute.  
-![](.gitbook/assets/sendexecute.png)
+
+
+![](.gitbook/assets/image%20%28249%29.png)
 
 Step 4. Your function has been executed.  
-![](.gitbook/assets/sendexec.png)
+
+
+![](.gitbook/assets/image%20%28120%29.png)
 
 **Using simple single-line commands**
 
@@ -40,7 +48,9 @@ So, in the above scenario, the command would be as follows:
 **gmail send subject "YellowAnt is here!" to "rohan@yellowant.com" message "Hey, check out this cool way to send an email."**
 
 After typing this, as soon as you hit enter the email gets sent.  
-![](.gitbook/assets/command-sendgmail.png)
+
+
+![](.gitbook/assets/image%20%28181%29.png)
 
 **Workflows - Events and Commands**
 

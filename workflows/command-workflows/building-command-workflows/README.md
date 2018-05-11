@@ -4,31 +4,79 @@ In this section, we see step by step how to create a command workflow on YellowA
 
 1. In your YellowAnt Dashboard, either from the Overview Panel or Command Workflows Panel, select "Add New" or "Create a Workflow" option respectively. 
 
-   ![](../../../.gitbook/assets/createcw.png)![](../../../.gitbook/assets/creatcw.png)
+![](../../../.gitbook/assets/image%20%28114%29.png)
 
-2. This will take you to the "Workflow Builder" page. Select "Create Command Workflow" from the two choices. ![](../../../.gitbook/assets/select.png)
+![](../../../.gitbook/assets/image%20%28107%29.png)
+
+2. This will take you to the "Workflow Builder" page. Select "Create Command Workflow" from the two choices.  
+
+
+![](../../../.gitbook/assets/image%20%28210%29.png)
+
 3. Choose a "Collection" in which you want to add the workflow to, Then, give a command name to the workflow. This will be useful in executing the command later from your chat window. Example, we are naming it "startmyday" and in order to execute it later, we would be using the command "workflow startmyday".
 
-   Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some specific set of tasks. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
-   ![](../../../.gitbook/assets/cw2.jpg)
+Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some specific set of tasks. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
+
+
+![](../../../.gitbook/assets/image%20%28196%29.png)
 
 4. Click on "Add Action in the left panel.
-5. Choose the application from which you want to use as your first "Action". Here, we select "GMail". ![](../../../.gitbook/assets/app1.jpg)
-6. Choose the action you want from to use from the application. Here, we select "fetch mails from a label". ![](../../../.gitbook/assets/gmailaction.jpg)
-7. Fill in the required parameter field with the values you need. Here, we want mails fetched with the label "UNREAD". ![](../../../.gitbook/assets/fillreqdfield.jpg)
+
+5. Choose the application from which you want to use as your first "Action". Here, we select "GMail".
+
+![](../../../.gitbook/assets/image%20%28141%29.png)
+
+6. Choose the action you want from to use from the application. Here, we select "fetch mails from a label".  
+
+
+![](../../../.gitbook/assets/image%20%28246%29.png)
+
+7. Fill in the required parameter field with the values you need. Here, we want mails fetched with the label "UNREAD".  
+
+
+![](../../../.gitbook/assets/image%20%2844%29.png)
+
 8. Click on "Add Action" in the left panel to add the second application.
-9. Choose the application from which you want to use as your second "Action". Here, we select "Asana". ![](../../../.gitbook/assets/app2.jpg)
-10. Choose the action you want from to use from the application. Here, we select "List user tasks". ![](../../../.gitbook/assets/asanaaction.jpg)
-11. Fill in the required parameter field with the values you need. Here, we want tasks fetched from a workspace "yellowant.com". ![](../../../.gitbook/assets/fillreqdfield2.jpg)
-12. You can continue to create a chain of events across many apps. We will save it here. Click the button "Save" in the top panel. ![](../../../.gitbook/assets/createdcw.jpg)
-13. You will get a notification in your chat window about the creation of this new workflow. You can execute it right from there as well. ![](../../../.gitbook/assets/check1.png)
-14. To execute it at any point, just type "collectionname workflowname" and it executes. Example, "demo-collection startmyname". ![](../../../.gitbook/assets/cmcmd.png)![](../../../.gitbook/assets/cwcmd2.png)
+
+9. Choose the application from which you want to use as your second "Action". Here, we select "Asana".  
+
+
+![](../../../.gitbook/assets/image%20%28159%29.png)
+
+10. Choose the action you want from to use from the application. Here, we select "List user tasks".  
+
+
+![](../../../.gitbook/assets/image%20%28116%29.png)
+
+11. Fill in the required parameter field with the values you need. Here, we want tasks fetched from a workspace "yellowant.com".  
+
+
+![](../../../.gitbook/assets/image%20%28151%29.png)
+
+12. You can continue to create a chain of events across many apps. We will save it here. Click the button "Save" in the top panel.  
+
+
+![](../../../.gitbook/assets/image%20%28226%29.png)
+
+13. You will get a notification in your chat window about the creation of this new workflow. You can execute it right from there as well.  
+
+
+![](../../../.gitbook/assets/image%20%2899%29.png)
+
+14. To execute it at any point, just type "collectionname workflowname" and it executes. Example, "demo-collection startmyname".  
+
+
+![](../../../.gitbook/assets/image%20%2810%29.png)
+
+![](../../../.gitbook/assets/image%20%2873%29.png)
 
 ## Another Example \(more comprehensive\):
 
 Let’s create one Slack command that gets a high-priority PagerDuty incident, creates a JIRA issue, sends an email to the Test team, and creates a calendar event for a war room meeting. Normally, this process would take atleast 5 minutes. With this command, it will take 5 seconds.
 
-![](https://cdn-images-1.medium.com/max/1000/1*JwOI2pp_NuWyBrThxmzHBQ.png)Let’s begin,
+
+
+![](../../../.gitbook/assets/image%20%28211%29.png)
 
 1. In the YellowAnt console, click on “Create a Workflow”. 
 
