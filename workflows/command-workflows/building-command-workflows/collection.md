@@ -10,11 +10,17 @@ The way to execute such a command workflow would be to simply type: **workflow c
 **In case you select/add it to a workflow named myset, then the command changes to:** myset command-name**
 
 Example 1:  
-![](../../../.gitbook/assets/ex1.png)In this case, the workflow command is "startmyday" and it belong to the collection "workflow" so the command to execute is "workflow startmyday".
+
+
+![](../../../.gitbook/assets/image%20%288%29.png)
+
+ In this case, the workflow command is "startmyday" and it belong to the collection "workflow" so the command to execute is "workflow startmyday".
 
 Example 2:
 
-![](../../../.gitbook/assets/ex3.png)In this case, the workflow command is "startmyday" and it belong to the collection "demo-collection" so the command to execute is "demo-collection startmyday".
+![](../../../.gitbook/assets/image%20%2884%29.png)
+
+ In this case, the workflow command is "startmyday" and it belong to the collection "demo-collection" so the command to execute is "demo-collection startmyday".
 
 We see that you can use the same command name, but place it uner different sets i.e. collections and use it in different contexts altogether without one interfering with the other.
 
