@@ -18,7 +18,7 @@ Example 1:
 
 Example 2:
 
-![](../../../.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%2894%29.png)
 
  In this case, the workflow command is "startmyday" and it belong to the collection "demo-collection" so the command to execute is "demo-collection startmyday".
 

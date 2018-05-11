@@ -9,7 +9,7 @@ Using the YellowAnt dashboard you can simply navigate to the particular integrat
 3. Scroll down to the notifications settings
 4. Toggle on/off depending on what you require for each notification
 
-![](.gitbook/assets/appsettings.jpg)
+![](.gitbook/assets/image%20%2838%29.png)
 
 _Flexibility to highly customize your applications' notifications._
 

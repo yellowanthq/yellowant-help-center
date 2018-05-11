@@ -8,13 +8,13 @@ Example 1:
 
 ### In the trigger command, since no parameters are being passed, we don't see any outputs available in the next step. And using "@" gives us no options. 
 
-![](../../../.gitbook/assets/image%20%28211%29.png)
+![](../../../.gitbook/assets/image%20%28212%29.png)
 
 ![](../../../.gitbook/assets/treg7.png)
 
 ### In this case, a parameter was passed in the trigger command, so we see "build" appearing as a data option. 
 
-![](../../../.gitbook/assets/image%20%28201%29.png)
+![](../../../.gitbook/assets/image%20%28202%29.png)
 
-![](../../../.gitbook/assets/image%20%28139%29.png)
+![](../../../.gitbook/assets/image%20%28140%29.png)
 

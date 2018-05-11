@@ -11,7 +11,7 @@ Steps to start using an existing template:
 
 1. Go to the Workflow Marketplace. You can either go directly from the overview panels of the dashboard or either of the workflow panels in the dashboard. 
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 2. In the overview panel, under event or command workflows, click on "View All".  
 
@@ -21,31 +21,31 @@ Steps to start using an existing template:
 3. In the Command Workflows panel, click on "Explore Marketplace"  
 
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 4. In the Event Workflows panel, click on "Explore Marketplace"
 
 5. You will be taken to the workflows page where you can select to either view your workflows or "Explore Marketplace".  
 
 
-![](../.gitbook/assets/image%20%28202%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
 6. You can now view all the available templates. You can also apply application filters to find specific combinations of applications working together in applications.  
 
 
-![Workflows Marketplace](../.gitbook/assets/image%20%28152%29.png)
+![Workflows Marketplace](../.gitbook/assets/image%20%28153%29.png)
 
-![Using application filters to find specific combinations](../.gitbook/assets/image%20%28115%29.png)
+![Using application filters to find specific combinations](../.gitbook/assets/image%20%28116%29.png)
 
 7. Click on "Use Template" for whichever workflow you want to start using. It gives you an overview of what the workflow does.  
 
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
 8. Click on "Use Template" to view it in the builder. You can edit values as needed by you and hit "Save" and it will create a copy of the workflow for you with any updated details that you may have.  
 
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
 9. After that, it's a regular workflow in your account and you can use it the way you like. It does not impact the template in any way.
 
