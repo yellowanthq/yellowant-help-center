@@ -4,7 +4,7 @@ An Action is a task that is performed after the trigger command is executed. For
 
 Example: In this case, the trigger is the command and it results in two actions - fetch mails from a label and then also fetch Asana tasks.
 
-![](../../../.gitbook/assets/image%20%28113%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 Actions can occur based on conditions also, which we will cover in the next part of the documentation.
 

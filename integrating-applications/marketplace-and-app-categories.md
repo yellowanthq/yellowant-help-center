@@ -22,9 +22,9 @@ _Available Apps: Google Analytics_
 
 YellowAnt lets you access and control many of the widely used communication tools. You can get updates and take quick actions on those apps.
 
-_Available Apps: Gmail, Calendar, RSS, Twitter, Google Contacts, Intercom _
+_Available Apps: Gmail, Calendar, RSS, Twitter, Google Contacts, Intercom_ 
 
-## **Customer Relationship Management   **
+## **Customer Relationship Management**   
 
 CRM tools are extremely useful to Sales, Marketing and Customer Support teams and YellowAnt massively reduces the time wasted on these applications by enabling you to get updates and take quick actions through commands and input boxes.
 
@@ -40,7 +40,7 @@ _Available Apps: \_Bitbucket, Jira, Github, JiraO, Sentry, Jenkins, Airbrake, Ci
 
 Manage your files and search for them across applications like Google Drive and Dropbox. Why leave Slack or your chat window when with one click you have access to a search bar within it. Easy to use - effective and fast.
 
-_Available Apps: Google Drive, Dropbox _
+_Available Apps: Google Drive, Dropbox_ 
 
 ## **Google Apps**
 
@@ -48,13 +48,13 @@ With Google's GSuite used across so many businesses, even YellowAnt has it bundl
 
 _Available Apps: Gmail, Calendar, Google Analytics, Google Drive, Google Contacts, YouTube_
 
-## **Marketing **
+## **Marketing** 
 
 Marketing can be a tedious domain to work if you're not using the right tools. Why not use the right integrations as well? Control all your marketing needs from within your chat window. From getting insights from analytics to "listening" to your company's mentions on twitter. You can do it all from one control center.
 
 _Available Apps: Google Analytics, Twitter, YouTube, Intercom, Salesforce_
 
-## **Notes  **
+## **Notes**  
 
 So many applications to make quick notes. With YellowAnt's Evernote integration, you can easily pull up a dialog box or execute a simple command and make a note of whatever comes up throughout the day during work. You can even search for notes, create to-do lists or take actions on them.
 
@@ -78,7 +78,7 @@ Businesses and software systems reply heavily on server monitoring to ensure eve
 
 _Available Apps: New Relic, AWS CloudWatch, CircleCI, Airbrake, Jenkins, Sentry_
 
-## **Social/Fun    **
+## **Social/Fun**    
 
 Once in a while at work, we require help or need to take a quick break and hop onto Twitter or YouTube. Now, don't go down the spiral path of being distracted. Need Twitter? Pull up your feeds within Slack and take quick actions - Retweet, Heart or even post your own tweet. Look up a video on YouTube directly from Slack/chat apps or search questions and answers on StackExchange as well. All this with a click, awesome dialog boxes and super simple commands of YellowAnt.
 
@@ -90,17 +90,17 @@ For staying on top of things, creating to-do lists forms an important part of th
 
 _Available Apps: Evernote, Asana_
 
-## **Miscellaneous  **
+## **Miscellaneous**  
 
 The miscellaneous section has apps like Wikipedia, RSS and few others. Search for an article on Wikipedia through Slack or your chat app and only go to the page if the information seems insufficient. YellowAnt takes care of all your needs with the apps in various categories.
 
 _Available Apps: YouTube, RSS, Wikipedia, StackExchange, Twitter_
 
-## **Building on top of YellowAnt? **
+## **Building on top of YellowAnt?** 
 
 You will also see these two categories:
 
-**Private To You - **Applications build by you and kept private to yourself only. You can use it with YellowAnt, find it in the marketplace but your team members won't see it until you make it "Private to Your Team".
+**Private To You -** Applications build by you and kept private to yourself only. You can use it with YellowAnt, find it in the marketplace but your team members won't see it until you make it "Private to Your Team".
 
-**Private To Your Team - **Applications build by members of your team and kept private to the team only. You can use it with YellowAnt, find it in the marketplace but other YellowAnt users outside your team won't see it until you make it "Public" and it is verified and tested by the YellowAnt Dev Team as well.
+**Private To Your Team -** Applications build by members of your team and kept private to the team only. You can use it with YellowAnt, find it in the marketplace but other YellowAnt users outside your team won't see it until you make it "Public" and it is verified and tested by the YellowAnt Dev Team as well.
 

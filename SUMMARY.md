@@ -41,6 +41,7 @@
     * [RSS](integrating-applications/applications-on-yellowant/rss.md)
     * [Salesforce](integrating-applications/applications-on-yellowant/salesforce.md)
     * [Sentry](integrating-applications/applications-on-yellowant/sentry.md)
+    * [ServiceNow](integrating-applications/applications-on-yellowant/servicenow.md)
     * [StackExchange](integrating-applications/applications-on-yellowant/stackexchange.md)
     * [Trello](integrating-applications/applications-on-yellowant/trello.md)
     * [Twitter](integrating-applications/applications-on-yellowant/twitter.md)

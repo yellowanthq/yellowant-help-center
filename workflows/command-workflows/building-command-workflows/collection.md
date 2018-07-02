@@ -6,8 +6,8 @@ For command triggered workflows, collections also change the way the workflow is
 
 **If you create a new command triggered workflow and do not select/create a collection, by default it gets added to a collection called workflow.**
 
-The way to execute such a command workflow would be to simply type: **workflow command-name    
-**In case you select/add it to a workflow named myset, then the command changes to:** myset command-name**
+The way to execute such a command workflow would be to simply type: **workflow command-name**    
+In case you select/add it to a workflow named myset, then the command changes to: **myset command-name**
 
 Example 1:  
 
@@ -18,7 +18,7 @@ Example 1:
 
 Example 2:
 
-![](../../../.gitbook/assets/image%20%2894%29.png)
+![](../../../.gitbook/assets/image%20%2897%29.png)
 
  In this case, the workflow command is "startmyday" and it belong to the collection "demo-collection" so the command to execute is "demo-collection startmyday".
 

@@ -4,8 +4,8 @@ A trigger for an event workflow is an event across some application that initiat
 
 ![](../../../.gitbook/assets/ewf3.png)
 
-_Selecting an application in which the trigger event occurs.  
-_![](../../../.gitbook/assets/ewf4.jpg)
+_Selecting an application in which the trigger event occurs._  
+![](../../../.gitbook/assets/ewf4.jpg)
 
 _Selecting a specific event for the trigger application._
 

@@ -2,8 +2,8 @@
 
 YellowAnt offers you two different ways of controlling your applications. Apart from these, the notifications and automatic updates can be configured through the dashboard and can be changed through commands and dialog boxes as well.
 
-**Using Dialog Boxes    
-**YellowAnt offers you an unique way to manage your applications from chat apps like Slack or through the native console to command applications through dialog boxes. Basically, you type in the application name, which displays a bunch of commands for you to choose from. You choose to run that command, and a dialog box pops up to take any necessary inputs that are required for the particular action.
+**Using Dialog Boxes**    
+YellowAnt offers you an unique way to manage your applications from chat apps like Slack or through the native console to command applications through dialog boxes. Basically, you type in the application name, which displays a bunch of commands for you to choose from. You choose to run that command, and a dialog box pops up to take any necessary inputs that are required for the particular action.
 
 Let's take a look at this step by step.
 
@@ -20,37 +20,37 @@ For example, if you want to send an email in Gmail all you have to do is click o
 Step 1. Type "gmail" in YellowAnt DM or "@yellowant gmail" in a channel.  
 
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 
 Step 2. Choose the function you would like to execute \(in this case "send" and click on "Run this command" under the chosen function.  
 
 
-![](.gitbook/assets/image%20%2895%29.png)
+![](.gitbook/assets/image%20%2898%29.png)
 
 Step 3. Fill in the required fields and hit execute.  
 
 
-![](.gitbook/assets/image%20%28289%29.png)
+![](.gitbook/assets/image%20%28295%29.png)
 
 Step 4. Your function has been executed.  
 
 
-![](.gitbook/assets/image%20%28143%29.png)
+![](.gitbook/assets/image%20%28147%29.png)
 
 **Using simple single-line commands**
 
 The other way of controlling your applications is through simple commands of YellowAnt. It's basically like talking to the application in a chat window. Every command is easy and has a really short learning curve for memorizing them. Well, it's not really memorizing the command because they have a particular format and a very simple approach to using them. If you know what the application does, it's extremely easy to command the application.
 
 For example, to send an email on Gmail this is the command:  
-**gmail send subject "email subject" to "recipient email id" message "email body"    
-**  
+**gmail send subject "email subject" to "recipient email id" message "email body"**    
+  
 So, in the above scenario, the command would be as follows:  
 **gmail send subject "YellowAnt is here!" to "rohan@yellowant.com" message "Hey, check out this cool way to send an email."**
 
 After typing this, as soon as you hit enter the email gets sent.  
 
 
-![](.gitbook/assets/image%20%28214%29.png)
+![](.gitbook/assets/image%20%28218%29.png)
 
 **Workflows - Events and Commands**
 
