@@ -47,6 +47,7 @@
     * [Twitter](integrating-applications/applications-on-yellowant/twitter.md)
     * [Wikipedia](integrating-applications/applications-on-yellowant/wikipedia.md)
     * [YouTube](integrating-applications/applications-on-yellowant/youtube.md)
+    * [Zendesk](integrating-applications/applications-on-yellowant/zendesk.md)
 * [Commanding Apps](commanding-apps.md)
 * [Notifications](notifications.md)
 * [Workflows](workflows/README.md)

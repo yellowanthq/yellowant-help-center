@@ -1,7 +1,5 @@
 # ServiceNow
 
-
-
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
 ![YellowAnt Dashboard - Available Applications Panel](../../.gitbook/assets/image%20%283%29.png)
@@ -10,11 +8,11 @@
 
 3. If you are in the Marketplace you can find ServiceNow. You can also search for this application in the search bar.
 
-![Find ServiceNow in the App Marketplace](../../.gitbook/assets/image%20%28146%29.png)
+![Find ServiceNow in the App Marketplace](../../.gitbook/assets/image%20%28152%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on Integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
-![](../../.gitbook/assets/image%20%28224%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the ServiceNow OAuth page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  
@@ -28,7 +26,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 7. Select "Integrate". YellowAnt will ask you to fill in a few details
 
-![Fill in the details of your ServiceNow Account](../../.gitbook/assets/image%20%2876%29.png)
+![Fill in the details of your ServiceNow Account](../../.gitbook/assets/image%20%2879%29.png)
 
 To find the values for these fields, follow these steps:
 
@@ -38,7 +36,7 @@ To find the values for these fields, follow these steps:
 
 \(ii\) Click on Create an OAuth API endpoint for external clients. Enter your application name
 
-![We are naming this &quot;YellowAnt&quot;](../../.gitbook/assets/image%20%2839%29.png)
+![We are naming this &quot;YellowAnt&quot;](../../.gitbook/assets/image%20%2841%29.png)
 
 \(iii\) Copy the Client ID and the Client Secret. Set the Access token and Refresh token lifespan to some high value Click on Submit.
 
@@ -46,11 +44,13 @@ To find the values for these fields, follow these steps:
 
 8. Enter the Instance name,Client ID and Client secret which was copied earlier. Click "Allow" in your ServiceNow instance
 
-![Click Allow to complete Integration](../../.gitbook/assets/image%20%28222%29.png)
+![Click Allow to complete Integration](../../.gitbook/assets/image%20%28228%29.png)
 
 9. YellowAnt will send you a message with available functions. Run "Generate Webhooks". A webhook will be generated in your chat console
 
-![ ](https://lh5.googleusercontent.com/x9S-YZnDLkSWIIsh_NumbahgFPkNa7JDTpzA83nJIpmT6R_LeunKzRHPFOJzif6C3-D-Xg4XqA05Ha3vwAF3DgezEeevXq8cAb7A0V2R6Acs36EgRm4jYTyuj5MICj1m59V-JVBA)
+![Webhooks in Slack](https://lh5.googleusercontent.com/x9S-YZnDLkSWIIsh_NumbahgFPkNa7JDTpzA83nJIpmT6R_LeunKzRHPFOJzif6C3-D-Xg4XqA05Ha3vwAF3DgezEeevXq8cAb7A0V2R6Acs36EgRm4jYTyuj5MICj1m59V-JVBA)
+
+![Webhooks in Microsoft Teams](../../.gitbook/assets/image%20%28119%29.png)
 
 10. In your ServiceNow instance, open "Business Rules" and click "New".
 

@@ -8,7 +8,7 @@ A trigger for a command workflow is a command that triggers actions across vario
 Here we see, the default command name is: my-custom-workflow-name  
 If you create another one with default name, it just gets appended by a number: my-custom-workflow-name-2
 
-![](../../../.gitbook/assets/image%20%28152%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
   
  Here we see, the user command name is: startmyday You can also see the collection is: demo-collection
