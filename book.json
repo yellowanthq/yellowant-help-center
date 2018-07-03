@@ -28,7 +28,8 @@
       "toggle-chapters",
       "image-wrapper",
       "image-captions",
-      "favicon"
+      "favicon",
+      "codetabs",
     ],
     "pluginsConfig": {
         "fontsettings": {
