@@ -1,7 +1,5 @@
 # Zendesk
 
-
-
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
 ![YellowAnt Dashboard - Available Applications Panel](../../.gitbook/assets/image%20%2865%29.png)
