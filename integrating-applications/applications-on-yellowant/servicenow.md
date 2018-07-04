@@ -38,7 +38,7 @@ To find the values for these fields, follow these steps:
 
 ![We are naming this &quot;YellowAnt&quot;](../../.gitbook/assets/image%20%2841%29.png)
 
-\(iii\) Copy the Client ID and the Client Secret. Set the Access token and Refresh token lifespan to some high value Click on Submit.
+\(iii\) Copy the Client ID and the Client Secret. Set the Access token and Refresh token lifespan to some high value Click on Submit. The redirect URL needs to filled with the value: [https://www.yellowant.com/market/applications/1930/service-now-auth/](https://www.yellowant.com/market/applications/1930/service-now-auth/) 
 
 ![Use these details to integrate your YellowAnt App](https://lh6.googleusercontent.com/ArUnA_NxrQkouiGh4VuAEtVFLzKA-cJ35DjeC16SgdMHL6FYWBuCRKhM8l8e_KLjcnFln2gXhQ7_OaGF7bwOivlaKFV9wQ0wWl8BJUuh40AKqxCzLQHjor906QiSqHIjIUt6RKlL)
 
