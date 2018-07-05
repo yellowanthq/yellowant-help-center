@@ -67,7 +67,7 @@ To find the values for these fields, follow these steps:
 try { 
 var webhook_id="//Your Webhook ID"
 var r = new sn_ws.RESTMessageV2();
-r.setEndpoint("https://5d89db4c.ngrok.io/webhooks/"+webhook_id);
+r.setEndpoint("https://www.yellowant.com/market/applications/1930/webhooks/"+webhook_id);
 body ='{' + 
 	'"state"' + ':' + '"' + "created"+'"' + ',' +    //Replace ” created” with “updated” or “deleted”
 	'"sys_id"' + ':' + '"'+current.sys_id+'"' + ',' + 
