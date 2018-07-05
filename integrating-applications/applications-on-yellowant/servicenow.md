@@ -20,7 +20,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 ![Select &quot;Add Account&quot;](https://lh5.googleusercontent.com/BN2B8Ug3oatfGneTllvVJJBtmcQo8e1u7mRT-OzlEq4bwslYpQQIitmGHfilBgnn7eC8Vlc5-ND8fliEa2EHp6vng5Txi93folxh265wjWU9ittuSa2FaWo6jSwqSf7MOE7xNEF_)
 
-6. Allow the needed permissions to Sentry.
+6. Allow the needed permissions to ServiceNow.
 
 ![](https://lh6.googleusercontent.com/glmh60ldWjLn6XlljsyIDIF96_8-bJW3AydXZJM40L0Nw0b6nTeVIk3lJ-czcLY934YaVfsF3bp3hC5zRzkiHMTENYgP-0nlX6StSusDO-5FLeBWtXFI_ziHPhKXWsxPgnNx0Hx8)
 
@@ -56,7 +56,7 @@ To find the values for these fields, follow these steps:
 
 ![](https://lh5.googleusercontent.com/PTGI_qMgUnxkvy77PvYkgGIIr8JickOnuGVbbOj26QAuuwhzEkXnhvLQeqzG2qFctDoUY2xOnS5ZhbGV-OcFiVyU1owhw3kN9_Ep37O20eGC2eanR1OaYNWi87ECDeLriM1j75MS)
 
- 11. Enter a Name for the new webhooks rule. Choose the table as "Incident" .Select" Advanced Checkbox". Select "after" from the "When" dropdown. Select "Insert". In Role conditions select web\_service\_admin.
+ 11. Enter a Name for the new webhooks rule. Choose the table as "Incident" .Select" Advanced Checkbox". Select "after" from the "When" dropdown. Select "Insert". In Role conditions select web\_service\_admin. Set the order to 1
 
 ![](https://lh4.googleusercontent.com/1i7Qxxx7us4EvZvNMsWk9ndLpfhrjxIh0BU1f1iElwf4jA_BcS4tf9-A9cruOYTjlj0Go3YP1Bb9q7LgqZVPfZrXoorzF-Wta4KCEZfidJOdS5BX6X7KymwqNyT9eyy4sHjUk03Z)
 
@@ -67,7 +67,7 @@ To find the values for these fields, follow these steps:
 try { 
 var webhook_id="//Your Webhook ID"
 var r = new sn_ws.RESTMessageV2();
-r.setEndpoint("https://www.yellowant.com/market/applications/1930/webhooks/"+webhook_id);
+r.setEndpoint("https://5d89db4c.ngrok.io/webhooks/"+webhook_id);
 body ='{' + 
 	'"state"' + ':' + '"' + "created"+'"' + ',' +    //Replace ” created” with “updated” or “deleted”
 	'"sys_id"' + ':' + '"'+current.sys_id+'"' + ',' + 
@@ -83,8 +83,10 @@ r.setHttpMethod("POST");
 catch(ex) {
  var message = ex.getMessage();
 }
-
+})(current, previous);
 ```
 
-13. Your ServiceNow integration is now complete.
+13. Create 2 more business rules for update and delete. The only change is the tick boxes and the part in the code which is commented. 
+
+Your ServiceNow integration is now complete.
 
