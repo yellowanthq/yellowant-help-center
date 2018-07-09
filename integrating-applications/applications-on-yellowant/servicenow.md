@@ -69,11 +69,12 @@ var webhook_id="//Your Webhook ID"
 var r = new sn_ws.RESTMessageV2();
 r.setEndpoint("https://www.yellowant.com/market/applications/1930/webhooks/"+webhook_id);
 body ='{' + 
-	'"state"' + ':' + '"' + "created"+'"' + ',' +    //Replace ” created” with “updated” or “deleted”
-	'"sys_id"' + ':' + '"'+current.sys_id+'"' + ',' + 
-	'"number"' + ':' + '"'+current.number+'"' + ',' + 
-	'"description"' + ':' + '"'+current.short_description+'"'
-	+ '}';
+    '"state"' + ':' + '"' + "created"+'"' + ',' + 
+    '"sys_id"' + ':' + '"'+current.sys_id+'"' + ',' + 
+    '"number"' + ':' + '"'+current.number+'"' + ',' + 
+    '"description"' + ':' + '"'+current.short_description+'"' + ',' + 
+    '"assigned_to"' + ':' + '"'+current.assigned_to+'"' 
+    + '}';
 r.setRequestBody(body);
 r.setHttpMethod("POST");
  var response = r.execute();
