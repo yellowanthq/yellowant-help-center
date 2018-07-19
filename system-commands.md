@@ -25,21 +25,21 @@ System Commands in YellowAnt let you administer and control your YellowAnt accou
    **Command: help**    
   
 
-![](.gitbook/assets/image%20%28194%29.png)
+![](.gitbook/assets/image%20%28200%29.png)
 
 b. As a means to get assistance with a particular application. Using this lets you learn about the functions or actions available for an application/integration.  
 **Command: help "appname"  
 Example: help gmail**    
 
 
-![](.gitbook/assets/image%20%2849%29.png)
+![](.gitbook/assets/image%20%2850%29.png)
 
 c. As a means to get very specific information about how a particular function of an application works. You can see how to execute it and what parameters are required to execute it.  
 **Command: help "appname" "functionname"  
 Example: help gmail send**    
 
 
-![](.gitbook/assets/image%20%28143%29.png)
+![](.gitbook/assets/image%20%28146%29.png)
 
 3. **cron**    
 The "cron" system function is used to schedule an action/function execution at a specific time. It can be used to create a one-time executable or a recurring executable. You can schedule a function to be executed at a particular time of the day weekly, hourly or only once.
@@ -49,25 +49,25 @@ a. **Delete a Cron job:** Used to delete already scheduled jobs.
 ****b. **List user Cron jobs:** Used to list scheduled jobs of the user.    
 ****c. **Schedule a Cron Job:** There are multiple ways to schedule jobs on YellowAnt.
 
-![To fetch all functions under cron functionality.](.gitbook/assets/image%20%28147%29.png)
+![To fetch all functions under cron functionality.](.gitbook/assets/image%20%28150%29.png)
 
 Example:  
 To schedule a task to fetch your asana tasks everyday at 10:00 AM  
 
 
-![](.gitbook/assets/image%20%2882%29.png)
+![](.gitbook/assets/image%20%2883%29.png)
 
 ![](.gitbook/assets/outmytasks.png)
 
 To list the cron jobs you have:  
 
 
-![](.gitbook/assets/image%20%28204%29.png)
+![](.gitbook/assets/image%20%28210%29.png)
 
-![](.gitbook/assets/image%20%28234%29.png)
+![](.gitbook/assets/image%20%28240%29.png)
 
 To delete already scheduled tasks, you can list and hit the "delete" button or use the delete function to do the same:  
 
 
-![](.gitbook/assets/image%20%28245%29.png)
+![](.gitbook/assets/image%20%28251%29.png)
 

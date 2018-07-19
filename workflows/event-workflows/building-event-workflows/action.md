@@ -4,7 +4,7 @@ An Action is a task that is performed after the trigger event occurs. For any ev
 
 Example: In this case, the trigger is a Jenkins job notification and the action is sending an email in GMail.
 
-![](../../../.gitbook/assets/image%20%2875%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 
 Now actions can occur based on conditions also, which we will cover in the next part of the documentation.
 

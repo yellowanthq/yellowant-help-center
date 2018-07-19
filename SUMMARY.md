@@ -45,6 +45,7 @@
     * [StackExchange](integrating-applications/applications-on-yellowant/stackexchange.md)
     * [Trello](integrating-applications/applications-on-yellowant/trello.md)
     * [Twitter](integrating-applications/applications-on-yellowant/twitter.md)
+    * [VictorOps](integrating-applications/applications-on-yellowant/victorops.md)
     * [Wikipedia](integrating-applications/applications-on-yellowant/wikipedia.md)
     * [YouTube](integrating-applications/applications-on-yellowant/youtube.md)
     * [Zendesk](integrating-applications/applications-on-yellowant/zendesk.md)

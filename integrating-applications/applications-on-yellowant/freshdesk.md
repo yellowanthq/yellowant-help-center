@@ -2,11 +2,11 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
         _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28248%29.png)
+![](../../.gitbook/assets/image%20%28254%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -19,25 +19,25 @@ _YellowAnt Marketplace - Search or check out categories_
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 5. You will be on the integration page which prompts you to add an account to the application. Click "add account" which takes you to the Freshdesk Access page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28290%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 6. In this step, YellowAnt asks you for the Freshdesk User API Key and Freshdesk Team URL.  
 
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](../../.gitbook/assets/image%20%28301%29.png)
 
 7. You can find the API Key for Freshdesk in your account under Profile Settings &gt; API. Copy and paste that API Key and Team URL in the text fields on YellowAnt Integration page and hit "SUBMIT". Here, Team URL is private16.freshdesk.com.  
 
 
-![](../../.gitbook/assets/image%20%28206%29.png)
+![](../../.gitbook/assets/image%20%28212%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 8. Freshdesk is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
