@@ -6,7 +6,7 @@
 
 _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28272%29.png)
+![](../../.gitbook/assets/image%20%28275%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -37,7 +37,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(i\) Go to User Settings Panel
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28272%29.png)
 
 \(ii\) Go to Personal API Tokens in User Settings and click on Create New Token
 
@@ -49,7 +49,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 8. Once it generates a new API Token, copy it immediately and paste it in the YellowAnt integration page.
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 9. Circle CI is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

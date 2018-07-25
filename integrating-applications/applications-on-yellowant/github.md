@@ -6,7 +6,7 @@
 
 _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28216%29.png)
+![](../../.gitbook/assets/image%20%28219%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -31,7 +31,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 6. Allow the needed permissions and Github is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28315%29.png)
 
 7. Github is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

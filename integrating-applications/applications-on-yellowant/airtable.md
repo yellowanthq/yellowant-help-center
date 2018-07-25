@@ -2,13 +2,13 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
-![](../../.gitbook/assets/image%20%28199%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
 
         _YellowAnt Dashboard - Available Applications Panel_
 
 
 
-![](../../.gitbook/assets/image%20%28302%29.png)
+![](../../.gitbook/assets/image%20%28306%29.png)
 
    _YellowAnt Marketplace - Search or check out categories_
 
@@ -29,12 +29,12 @@
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 6. In this step, YellowAnt asks you for the Airtable User API Key.  
 
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 7. You can find the API Key for Airtable in your account under the account button in your profile. Copy and paste that API Key in the text field on YellowAnt Integration page.
 

@@ -2,7 +2,7 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
-![](../../.gitbook/assets/image%20%28215%29.png)
+![](../../.gitbook/assets/image%20%28218%29.png)
 
 _YellowAnt Dashboard - Available Applications Panel_
 
@@ -15,7 +15,7 @@ _YellowAnt Marketplace - Search or check out categories_
 3. If you are in the Marketplace you can find Google Contacts under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](../../.gitbook/assets/image%20%28220%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
@@ -31,7 +31,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 6. Allow the needed permissions and Google Contacts is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
 7. Google Contacts is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

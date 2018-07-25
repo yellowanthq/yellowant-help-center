@@ -13,7 +13,7 @@ In this case, the event workflow will add to the collection "workflow" since we 
 
 Example 2:
 
-![](../../../.gitbook/assets/image%20%28171%29.png)
+![](../../../.gitbook/assets/image%20%28173%29.png)
 
 In this case, the event workflow will add to the collection "demo-collection".
 

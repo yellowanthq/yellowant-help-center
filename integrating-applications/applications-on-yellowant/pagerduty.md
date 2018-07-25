@@ -22,7 +22,7 @@
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
 6. In this step, YellowAnt asks you for the Pagerduty User API Key, Pagerduty User Email ID.  
 
@@ -38,7 +38,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 \(ii\) Click on the "User Settings" Panel and click on "Create API User Token".  
 
 
-![](../../.gitbook/assets/image%20%28190%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
 
 \(iii\) Give a description and create the token.
 
@@ -46,7 +46,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(iv\) Copy the token and paste on YellowAnt and submit.
 
-![](../../.gitbook/assets/image%20%28275%29.png)
+![](../../.gitbook/assets/image%20%28278%29.png)
 
 8. Pagerduty is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

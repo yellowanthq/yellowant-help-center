@@ -22,12 +22,12 @@ _YellowAnt Dashboard - Available Applications Panel_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28292%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 6. Allow the needed permissions and YouTube is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28231%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
 7. YouTube is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

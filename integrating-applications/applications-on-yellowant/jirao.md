@@ -16,13 +16,13 @@
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the JiraO OAuth page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28278%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 6. Once you click on add account, you are taken to the Jira authentication page of YellowAnt where you have to provide some information. The following are the steps to authenticate Jira.
 
@@ -37,13 +37,13 @@ Note: For this tutorial we will be using a dummy Jira account - ‘private61.atl
 
 _Image0A - Settings_
 
-![](../../.gitbook/assets/image%20%28225%29.png)
+![](../../.gitbook/assets/image%20%28228%29.png)
 
 _Image0B - Applications_ 
 
 \(ii\) Then under ‘Integrations’ section, click on Application Links. In text box enter ‘[https://yellowant.com/’](https://yellowant.com/’) and click on ‘Create new link’.
 
-![](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28207%29.png)
 
 _Image1 - Configure Application Links_
 
@@ -64,7 +64,7 @@ _Image2- Configure Application URL_
 
 \(v\) Click continue.
 
-![](../../.gitbook/assets/image%20%28209%29.png)
+![](../../.gitbook/assets/image%20%28212%29.png)
 
 _Image 3 - Link applications_
 
@@ -74,7 +74,7 @@ Consumer Key - same as done in the previous step.
 
 Consumer name - ‘Yellowant’.
 
-![](../../.gitbook/assets/image%20%28187%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 _Image 4 - Link applications_
 
@@ -83,7 +83,7 @@ Now, for the ‘Public Key’ we will head to YellowAnt \(at [https://www.yellow
 \(vii\) Once you are redirected to settings page, fill in your server name and click ‘GO’.  
 
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 _Image5 - Jira Team URL_
 
@@ -92,7 +92,7 @@ _Image5 - Jira Team URL_
 \(x\) Copy this ‘Public Key’ generated and head back to Jira where you left off.  
 
 
-![](../../.gitbook/assets/image%20%28285%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 _Image6 - SSL Public Key_
 
@@ -122,7 +122,7 @@ _Image9 - Allow permissions_
 8. Now, final step, head back to YellowAnt page and click on the continue button.  
 
 
-![](../../.gitbook/assets/image%20%28252%29.png)
+![](../../.gitbook/assets/image%20%28255%29.png)
 
 9. JiraO is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

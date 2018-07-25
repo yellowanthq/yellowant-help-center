@@ -17,21 +17,21 @@
 4. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the VictorOps OAuth page.  
 Note: Select a team before you click "+ ADD ACCOUNT".
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 5. For the next step, API access needs to be turned on in the VictorOps portal and an API key should be generated. 
 
 \(i\) To enable API access go to the API tab in the settings page of the VictorOps portal. Click on the "Activate API" button. On activating the API an API ID is generated.
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 \(ii\)  Click on the "New Key" button to generate an API Key
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 6. Enter the information in the integration window
 
-![](../../.gitbook/assets/image%20%28310%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 7. VictorOps is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

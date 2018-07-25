@@ -15,7 +15,7 @@ _YellowAnt Marketplace - Search or check out categories_
 3. If you are in the Marketplace you can find Gmail under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%28263%29.png)
+![](../../.gitbook/assets/image%20%28266%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
@@ -26,12 +26,12 @@ _YellowAnt Marketplace - Search or check out categories_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28307%29.png)
+![](../../.gitbook/assets/image%20%28311%29.png)
 
 6. Allow the needed permissions and Gmail is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28143%29.png)
+![](../../.gitbook/assets/image%20%28144%29.png)
 
 7. Gmail is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

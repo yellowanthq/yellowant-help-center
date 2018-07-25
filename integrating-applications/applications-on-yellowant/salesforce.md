@@ -2,7 +2,7 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
-![](../../.gitbook/assets/image%20%28186%29.png)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 _YellowAnt Dashboard - Available Applications Panel_
 
@@ -27,7 +27,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 6. Allow the needed permissions and Salesforce is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28298%29.png)
+![](../../.gitbook/assets/image%20%28302%29.png)
 
 7. Salesforce is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
