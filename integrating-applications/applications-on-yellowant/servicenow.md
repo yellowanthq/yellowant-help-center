@@ -20,7 +20,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 ![Select &quot;Add Account&quot;](https://lh5.googleusercontent.com/BN2B8Ug3oatfGneTllvVJJBtmcQo8e1u7mRT-OzlEq4bwslYpQQIitmGHfilBgnn7eC8Vlc5-ND8fliEa2EHp6vng5Txi93folxh265wjWU9ittuSa2FaWo6jSwqSf7MOE7xNEF_)
 
-6. Allow the needed permissions to Sentry.
+6. Allow the needed permissions to ServiceNow.
 
 ![](https://lh6.googleusercontent.com/glmh60ldWjLn6XlljsyIDIF96_8-bJW3AydXZJM40L0Nw0b6nTeVIk3lJ-czcLY934YaVfsF3bp3hC5zRzkiHMTENYgP-0nlX6StSusDO-5FLeBWtXFI_ziHPhKXWsxPgnNx0Hx8)
 
