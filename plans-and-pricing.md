@@ -53,7 +53,7 @@ Premium Applications \(Unavailable in this plan\): Jira, JiraO, Pagerduty, Pivot
 The basic plan has charges starting from just $3.5/user/month and going up to $5/user/month based on the period of subscription.
 
 | Payment Period | Charges \($/user/month\) |
-| :---: | :---: |
+| :--- | :--- |
 | Yearly | $3.5 |
 | Bi-Annually | $4.0 |
 | Quarterly | $4.5 |
@@ -83,7 +83,7 @@ Premium Applications \(Available in this plan\): Jira, JiraO, Pagerduty, Pivotal
 The premium plan has charges starting from just $7/user/month and going up to $10/user/month based on the period of subscription.
 
 | Payment Period | Charges \($/user/month\) |
-| :---: | :---: |
+| :--- | :--- |
 | Yearly | $7.0 |
 | Bi-Annually | $8.0 |
 | Quarterly | $9.0 |

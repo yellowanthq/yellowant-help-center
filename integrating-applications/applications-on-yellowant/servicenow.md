@@ -72,6 +72,7 @@ body ='{' +
     '"state"' + ':' + '"' + "created"+'"' + ',' + 
     '"sys_id"' + ':' + '"'+current.sys_id+'"' + ',' + 
     '"number"' + ':' + '"'+current.number+'"' + ',' + 
+    '"assigned_to"' + ':' + '"'+current.assigned_to+'"' + ',' + 	
     '"description"' + ':' + '"'+current.short_description+'"' + ',' + 
     '"assigned_to"' + ':' + '"'+current.assigned_to+'"' 
     + '}';
