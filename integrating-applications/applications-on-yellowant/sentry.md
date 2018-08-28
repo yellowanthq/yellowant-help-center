@@ -11,18 +11,18 @@ _YellowAnt Dashboard - Available Applications Panel_
 3. If you are in the Marketplace you can find Sentry under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
 
-![](../../.gitbook/assets/image%20%28251%29.png)
+![](../../.gitbook/assets/image%20%28256%29.png)
 
 5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the Sentry OAuth page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28232%29.png)
+![](../../.gitbook/assets/image%20%28237%29.png)
 
 6. Allow the needed permissions and Sentry is now integrated with YellowAnt.
 

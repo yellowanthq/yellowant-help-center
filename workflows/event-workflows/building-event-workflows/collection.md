@@ -7,13 +7,13 @@ If you add the workflow to a certain collection, it still makes no difference to
 
 Example 1:
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28118%29.png)
 
 In this case, the event workflow will add to the collection "workflow" since we did not select/create any collection.
 
 Example 2:
 
-![](../../../.gitbook/assets/image%20%28173%29.png)
+![](../../../.gitbook/assets/image%20%28176%29.png)
 
 In this case, the event workflow will add to the collection "demo-collection".
 

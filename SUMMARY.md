@@ -20,6 +20,7 @@
   * [Applications on YellowAnt](integrating-applications/applications-on-yellowant/README.md)
     * [Airbrake](integrating-applications/applications-on-yellowant/airbrake.md)
     * [Airtable](integrating-applications/applications-on-yellowant/airtable.md)
+    * [Alexa](integrating-applications/applications-on-yellowant/alexa.md)
     * [Asana](integrating-applications/applications-on-yellowant/asana.md)
     * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
     * [Bitbucket](integrating-applications/applications-on-yellowant/bitbucket.md)

@@ -20,7 +20,7 @@ The command workflow section shows all your command controlled workflows being u
 
 The event workflow section shows all your event triggered workflows being used as well as the template that are available to you from the Marketplace.
 
-![](../.gitbook/assets/image%20%28301%29.png)
+![](../.gitbook/assets/image%20%28308%29.png)
 
 Y_ellowAnt Dashboard - Your Personal Control Center_
 
