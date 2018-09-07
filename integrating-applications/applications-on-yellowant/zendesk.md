@@ -10,16 +10,16 @@
 
 3. Once you find the application either in the dashboard or on the Marketplace click on Integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
-![Option to integrate Zendesk along with available commands](../../.gitbook/assets/image%20%28263%29.png)
+![Option to integrate Zendesk along with available commands](../../.gitbook/assets/image%20%28268%29.png)
 
 4. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the Zeendesk OAuth page.  
 Note: Select a team before you click "+ ADD ACCOUNT".
 
-![Make sure to select the right team and click &quot;Add Account&quot;](../../.gitbook/assets/image%20%28275%29.png)
+![Make sure to select the right team and click &quot;Add Account&quot;](../../.gitbook/assets/image%20%28280%29.png)
 
 5. Enter your  team's Zendesk name  in the prompt and select notification settings. Then click on "Submit", then "Integrate". Allow permissions when prompted by Zendesk.
 
-![Enter the Zendesk name for your team](../../.gitbook/assets/image%20%28300%29.png)
+![Enter the Zendesk name for your team](../../.gitbook/assets/image%20%28306%29.png)
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 

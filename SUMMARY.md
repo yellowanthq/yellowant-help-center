@@ -37,6 +37,7 @@
     * [Jira](integrating-applications/applications-on-yellowant/jira.md)
     * [JiraO](integrating-applications/applications-on-yellowant/jirao.md)
     * [New Relic](integrating-applications/applications-on-yellowant/new-relic.md)
+    * [Outlook Mail](integrating-applications/applications-on-yellowant/outlook-mail.md)
     * [Pagerduty](integrating-applications/applications-on-yellowant/pagerduty.md)
     * [Pivotal Tracker](integrating-applications/applications-on-yellowant/pivotal-tracker.md)
     * [RSS](integrating-applications/applications-on-yellowant/rss.md)

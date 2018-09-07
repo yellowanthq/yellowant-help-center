@@ -11,7 +11,7 @@ _YellowAnt Dashboard - Available Applications Panel_
 3. If you are in the Marketplace you can find Jira under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](../../.gitbook/assets/image%20%28311%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
@@ -22,13 +22,13 @@ _YellowAnt Dashboard - Available Applications Panel_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28293%29.png)
+![](../../.gitbook/assets/image%20%28299%29.png)
 
 6. Jira requires you to use your Jira Team URL, Username and Password to authorize YellowAnt to access your data.  
 **NOTE: YellowAnt has an application called JiraO which has the same capabilities but with OAuth login.**  
 
 
-![](../../.gitbook/assets/image%20%28245%29.png)
+![](../../.gitbook/assets/image%20%28250%29.png)
 
 7. Jira is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
@@ -38,15 +38,15 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(ii\) Scroll Down to Advanced Settings, then webhooks. Name your application. 
 
-![](../../.gitbook/assets/image%20%28168%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 \(iii\) Get the webhook url from your integrations page
 
-![](../../.gitbook/assets/image%20%28143%29.png)
+![](../../.gitbook/assets/image%20%28146%29.png)
 
 \(iv\) Select all the issues you want notifications for. 
 
-![](../../.gitbook/assets/image%20%28302%29.png)
+![](../../.gitbook/assets/image%20%28308%29.png)
 
 \(v\) Click "Create". Webhook integration is now complete
 

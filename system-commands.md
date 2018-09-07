@@ -25,7 +25,7 @@ System Commands in YellowAnt let you administer and control your YellowAnt accou
    **Command: help**    
   
 
-![](.gitbook/assets/image%20%28207%29.png)
+![](.gitbook/assets/image%20%28211%29.png)
 
 b. As a means to get assistance with a particular application. Using this lets you learn about the functions or actions available for an application/integration.  
 **Command: help "appname"  
@@ -39,7 +39,7 @@ c. As a means to get very specific information about how a particular function o
 Example: help gmail send**    
 
 
-![](.gitbook/assets/image%20%28150%29.png)
+![](.gitbook/assets/image%20%28153%29.png)
 
 3. **cron**    
 The "cron" system function is used to schedule an action/function execution at a specific time. It can be used to create a one-time executable or a recurring executable. You can schedule a function to be executed at a particular time of the day weekly, hourly or only once.
@@ -49,7 +49,7 @@ a. **Delete a Cron job:** Used to delete already scheduled jobs.
 ****b. **List user Cron jobs:** Used to list scheduled jobs of the user.    
 ****c. **Schedule a Cron Job:** There are multiple ways to schedule jobs on YellowAnt.
 
-![To fetch all functions under cron functionality.](.gitbook/assets/image%20%28154%29.png)
+![To fetch all functions under cron functionality.](.gitbook/assets/image%20%28158%29.png)
 
 Example:  
 To schedule a task to fetch your asana tasks everyday at 10:00 AM  
@@ -62,12 +62,12 @@ To schedule a task to fetch your asana tasks everyday at 10:00 AM
 To list the cron jobs you have:  
 
 
-![](.gitbook/assets/image%20%28218%29.png)
+![](.gitbook/assets/image%20%28222%29.png)
 
-![](.gitbook/assets/image%20%28248%29.png)
+![](.gitbook/assets/image%20%28253%29.png)
 
 To delete already scheduled tasks, you can list and hit the "delete" button or use the delete function to do the same:  
 
 
-![](.gitbook/assets/image%20%28259%29.png)
+![](.gitbook/assets/image%20%28264%29.png)
 

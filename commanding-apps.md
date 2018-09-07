@@ -25,17 +25,17 @@ Step 1. Type "gmail" in YellowAnt DM or "@yellowant gmail" in a channel.
 Step 2. Choose the function you would like to execute \(in this case "send" and click on "Run this command" under the chosen function.  
 
 
-![](.gitbook/assets/image%20%28106%29.png)
+![](.gitbook/assets/image%20%28107%29.png)
 
 Step 3. Fill in the required fields and hit execute.  
 
 
-![](.gitbook/assets/image%20%28323%29.png)
+![](.gitbook/assets/image%20%28329%29.png)
 
 Step 4. Your function has been executed.  
 
 
-![](.gitbook/assets/image%20%28161%29.png)
+![](.gitbook/assets/image%20%28165%29.png)
 
 **Using simple single-line commands**
 
@@ -50,7 +50,7 @@ So, in the above scenario, the command would be as follows:
 After typing this, as soon as you hit enter the email gets sent.  
 
 
-![](.gitbook/assets/image%20%28238%29.png)
+![](.gitbook/assets/image%20%28243%29.png)
 
 **Workflows - Events and Commands**
 

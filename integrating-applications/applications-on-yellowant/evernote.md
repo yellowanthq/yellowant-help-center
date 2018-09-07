@@ -2,11 +2,11 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
         _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28274%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -15,9 +15,9 @@ _YellowAnt Marketplace - Search or check out categories_
 3. If you are in the Marketplace you can find Evernote under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%28289%29.png)
+![](../../.gitbook/assets/image%20%28294%29.png)
 
-![](../../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
  4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
@@ -27,12 +27,12 @@ _YellowAnt Marketplace - Search or check out categories_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28190%29.png)
+![](../../.gitbook/assets/image%20%28194%29.png)
 
 6. Login to your Evernote account and Evernote is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28178%29.png)
 
 7. Evernote is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
