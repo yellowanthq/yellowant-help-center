@@ -50,5 +50,11 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 ![](../../.gitbook/assets/image%20%28182%29.png)
 
-8. Jenkins is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
+8. Copy your Jenkins API Token, go back to the Jenkins settings page and paste the token in the API Token box. Also make sure your Jenkins server URL is correct.
+
+9. To configure Webhook notifications and for event workflows, copy the Webhook URL from your Jenkins integration settings page. Go to Jenkins and install the Jenkins Notifications plugin from the Jenkins marketplace.
+
+10. Go to every job from which you need the build notifications. In the **Notification Endpoints,** in the URL Source-&gt;URL section, paste the webhook URL copied from the Jenkins-YellowAnt integration settings page. Click on **Save** to finish your Jenkins integration
+
+![](../../.gitbook/assets/image-1.png)
 
