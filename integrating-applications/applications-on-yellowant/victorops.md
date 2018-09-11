@@ -1,7 +1,5 @@
 # VictorOps
 
-
-
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).
 
 ![YellowAnt Dashboard - Available Applications Panel](../../.gitbook/assets/image%20%2867%29.png)
@@ -35,6 +33,8 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 7. VictorOps is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
+**COMING SOON: WEBHOOKS**
+
 8. VictorOps has webhooks for incident triggered,incident acknowledged and incident resolved. The webhooks need to be created manually.
 
 Steps to create a webhook:
@@ -43,7 +43,7 @@ Steps to create a webhook:
 
 \(ii\)  Select the event type as "Any-Incident", method as POST, Content Type as application/json
 
-\(iii\) The webhook URL needs to be given in the "To" box. The webhook url should be of the format `"https://59efbf61.ngrok.io/webhook/webhook_id"` The webhook\_id is present in the database which should be provided to the user.
+\(iii\) The webhook URL needs to be given in the "To" box. The webhook url should be of the format `"https://example/webhook/webhook_id"` The webhook\_id is present in the database which should be provided to the user.
 
 \(iv\) The payload should be the below content
 
@@ -56,6 +56,4 @@ This will send a webhook to the specified url whenever a new incident is trigger
 ![](../../.gitbook/assets/image%20%28122%29.png)
 
 9. VictorOps is now integrated. 
-
-
 
