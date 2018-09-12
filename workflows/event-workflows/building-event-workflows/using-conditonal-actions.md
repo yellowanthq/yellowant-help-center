@@ -18,6 +18,8 @@ The “for” function allows you to take an action for every item in a list. To
 
 The if-else function allows you to you check a dynamic input for a condition and perform actions based on whether or not they are true.
 
+![using &quot;ifelse&quot; conditional action](../../../.gitbook/assets/screely-1536733038165.png)
+
 **condition:** Once you select the ifelse function, a variety of formulas will be available to apply on your dynamic inputs:
 
 * **contains** \(checks for whether a string is in a parent string\)
