@@ -1,6 +1,6 @@
 # Logical Functions
 
-You can use concat and if-else formulas in a field. 
+You can use **concat** and **if-else** formulas in a field. 
 
 ![Formulas &quot;concat&quot; and &quot;ifelse&quot; can be applied to a field](../../../.gitbook/assets/screely-1536731033852.png)
 
