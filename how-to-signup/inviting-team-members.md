@@ -6,9 +6,9 @@ Let's look at the process to invite a team member,
 
 1. Go to the settings panel in the YellowAnt dashboard \(Read more about the Dashboard\) 
 
-![](../.gitbook/assets/image%20%28302%29.png)
+![](../.gitbook/assets/image%20%28303%29.png)
 
 2. Open "Admin" settings and go to "Team Members" section and fill in the invites' email ids and click "Invite"
 
-![](../.gitbook/assets/image%20%28317%29.png)
+![](../.gitbook/assets/image%20%28318%29.png)
 

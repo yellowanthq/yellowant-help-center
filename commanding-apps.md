@@ -20,22 +20,22 @@ For example, if you want to send an email in Gmail all you have to do is click o
 Step 1. Type "gmail" in YellowAnt DM or "@yellowant gmail" in a channel.  
 
 
-![](.gitbook/assets/image%20%2858%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 Step 2. Choose the function you would like to execute \(in this case "send" and click on "Run this command" under the chosen function.  
 
 
-![](.gitbook/assets/image%20%28107%29.png)
+![](.gitbook/assets/image%20%28108%29.png)
 
 Step 3. Fill in the required fields and hit execute.  
 
 
-![](.gitbook/assets/image%20%28329%29.png)
+![](.gitbook/assets/image%20%28330%29.png)
 
 Step 4. Your function has been executed.  
 
 
-![](.gitbook/assets/image%20%28165%29.png)
+![](.gitbook/assets/image%20%28166%29.png)
 
 **Using simple single-line commands**
 
@@ -50,7 +50,7 @@ So, in the above scenario, the command would be as follows:
 After typing this, as soon as you hit enter the email gets sent.  
 
 
-![](.gitbook/assets/image%20%28243%29.png)
+![](.gitbook/assets/image%20%28244%29.png)
 
 **Workflows - Events and Commands**
 

@@ -23,6 +23,7 @@
     * [Alexa](integrating-applications/applications-on-yellowant/alexa.md)
     * [Asana](integrating-applications/applications-on-yellowant/asana.md)
     * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
+    * [Azure DevOps](integrating-applications/applications-on-yellowant/azure-devops.md)
     * [Bitbucket](integrating-applications/applications-on-yellowant/bitbucket.md)
     * [Circle CI](integrating-applications/applications-on-yellowant/circle-ci.md)
     * [Evernote](integrating-applications/applications-on-yellowant/evernote.md)
