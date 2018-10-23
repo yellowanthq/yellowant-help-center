@@ -19,9 +19,17 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 ![](../../.gitbook/assets/screely-1540194117476.png)
 
-6. Azure DevOps is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
+6. Select the name of your organization, and click submit. 
 
-7. To set up webhooks, follow these steps. Please note that only admin can add/change webhooks settings:
+![Enter the name of your organization](../../.gitbook/assets/screely-1540283828990.png)
+
+7. Azure DevOps is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
+
+7. To set up YellowAnt notifications, follow these steps.
+
+**Note for project Admins:** If you have admin permissions, YellowAnt will automatically create your Service Hooks for all projects within your organization for which you have admin access. For new projects, you will have to follow the steps below
+
+**Note for non-admins:** If you do not have admin permissions, please follow the steps below to setup your notifications
 
 \(i\) Go to the project for which you want webhooks. Then go to Project Settings, Service hooks. You can also use the following url for the same: 
 
@@ -37,7 +45,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 ![](../../.gitbook/assets/screely-1540195812898.png)
 
-\(iv\) Click "Finish". Repeat this process for all triggers you want to get notifications for. 
+\(iv\) Click on 'Test' to see if YellowAnt sends a notification. Click "Finish". Repeat this process for all triggers you want to get notifications for. 
 
-\(v\) Webhook integration is now complete
+\(v\) Notification Service Hooks are set!
 
