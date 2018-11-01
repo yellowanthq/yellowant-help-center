@@ -62,7 +62,7 @@ f. You will get a YellowAnt notification confirming your subscription
 
 ![](../../.gitbook/assets/inked13_li.jpg)
 
-g. Select the topic which you created earlier, and click create alarm.
+g. In your EC2 dashboard, select the topic which you created earlier, and click create alarm.
 
 ![](../../.gitbook/assets/inked14_li.jpg)
 
