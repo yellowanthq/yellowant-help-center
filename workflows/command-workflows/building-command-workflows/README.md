@@ -29,7 +29,7 @@ Note: A collection is a way of segregating workflows into sets in order to keep 
 6. Choose the action you want from to use from the application. Here, we select "fetch mails from a label".  
 
 
-![](../../../.gitbook/assets/image%20%28326%29.png)
+![](../../../.gitbook/assets/image%20%28327%29.png)
 
 7. Fill in the required parameter field with the values you need. Here, we want mails fetched with the label "UNREAD".  
 

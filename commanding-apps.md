@@ -30,7 +30,7 @@ Step 2. Choose the function you would like to execute \(in this case "send" and 
 Step 3. Fill in the required fields and hit execute.  
 
 
-![](.gitbook/assets/image%20%28330%29.png)
+![](.gitbook/assets/image%20%28331%29.png)
 
 Step 4. Your function has been executed.  
 

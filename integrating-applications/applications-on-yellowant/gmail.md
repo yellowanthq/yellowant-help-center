@@ -26,7 +26,7 @@ _YellowAnt Marketplace - Search or check out categories_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28325%29.png)
+![](../../.gitbook/assets/image%20%28326%29.png)
 
 6. Allow the needed permissions and Gmail is now integrated with YellowAnt.  
 

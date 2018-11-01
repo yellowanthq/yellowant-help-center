@@ -27,7 +27,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 6. Allow the needed permissions and Salesforce is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28316%29.png)
+![](../../.gitbook/assets/image%20%28317%29.png)
 
 7. Salesforce is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

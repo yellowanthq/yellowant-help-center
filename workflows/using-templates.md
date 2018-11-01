@@ -45,7 +45,7 @@ Steps to start using an existing template:
 8. Click on "Use Template" to view it in the builder. You can edit values as needed by you and hit "Save" and it will create a copy of the workflow for you with any updated details that you may have.  
 
 
-![](../.gitbook/assets/image%20%28322%29.png)
+![](../.gitbook/assets/image%20%28323%29.png)
 
 9. After that, it's a regular workflow in your account and you can use it the way you like. It does not impact the template in any way.
 

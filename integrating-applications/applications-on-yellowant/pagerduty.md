@@ -22,7 +22,7 @@
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28323%29.png)
+![](../../.gitbook/assets/image%20%28324%29.png)
 
 6. In this step, YellowAnt asks you for the Pagerduty User API Key, Pagerduty User Email ID.  
 

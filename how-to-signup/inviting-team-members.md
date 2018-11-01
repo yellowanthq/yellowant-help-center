@@ -10,5 +10,5 @@ Let's look at the process to invite a team member,
 
 2. Open "Admin" settings and go to "Team Members" section and fill in the invites' email ids and click "Invite"
 
-![](../.gitbook/assets/image%20%28318%29.png)
+![](../.gitbook/assets/image%20%28319%29.png)
 

@@ -12,7 +12,7 @@ Let's take a look at the step by step process for signing up using Teams:
 
 4. Review the permissions and click on **Add**
 
-![](../.gitbook/assets/image%20%28317%29.png)
+![](../.gitbook/assets/image%20%28318%29.png)
 
 5. Once the YellowAnt bot is added to the Team, YellowAnt will send you a personal message asking you to authorize your Azure account.
 

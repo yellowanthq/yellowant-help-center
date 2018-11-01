@@ -8,7 +8,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 
    _YellowAnt Marketplace - Search or check out categories_
 
