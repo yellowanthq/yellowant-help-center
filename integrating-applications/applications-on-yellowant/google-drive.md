@@ -6,7 +6,7 @@
 
 _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](../../.gitbook/assets/image%20%28218%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -31,7 +31,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 6. Allow the needed permissions and Google Drive is now integrated with YellowAnt.  
 
 
-![](../../.gitbook/assets/image%20%28285%29.png)
+![](../../.gitbook/assets/image%20%28286%29.png)
 
 7. Google Drive is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

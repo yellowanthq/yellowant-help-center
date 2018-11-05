@@ -2,7 +2,7 @@
 
 YellowAnt is connected to all your apps so you can create cross application workflows that can be triggered by an event of any application. This means a certain event of a certain application can trigger a chain of events across other apps and even use the subsequent data in the process.
 
-![](../../.gitbook/assets/image%20%28292%29.png)
+![](../../.gitbook/assets/image%20%28293%29.png)
 
  In this example, a Pagerduty incident automatically creates a corresponding Jira issue.
 

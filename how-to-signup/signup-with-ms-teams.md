@@ -12,7 +12,7 @@ Let's take a look at the step by step process for signing up using Teams:
 
 4. Review the permissions and click on **Add**
 
-![](../.gitbook/assets/image%20%28318%29.png)
+![](../.gitbook/assets/image%20%28319%29.png)
 
 5. Once the YellowAnt bot is added to the Team, YellowAnt will send you a personal message asking you to authorize your Azure account.
 
@@ -20,7 +20,7 @@ Let's take a look at the step by step process for signing up using Teams:
 
 6. Click on **Authenticate** and authenticate your Azure account
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28242%29.png)
 
 7. You will be taken to the YellowAnt dashboard where you can start integrating applications.
 
@@ -42,13 +42,13 @@ Let's take a look at the step by step process for signing up using Teams:
 
 \(iv\)YellowAnt will expand the panel and ask for inputs, in this case, the title of the article. Let's put in **Microsoft Teams**
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](../.gitbook/assets/image%20%28254%29.png)
 
 10. Click on **Submit** to execute the command
 
 11. YellowAnt will fetch the summary of the title we entered, ie, **Microsoft!**
 
-![](../.gitbook/assets/image%20%28219%29.png)
+![](../.gitbook/assets/image%20%28220%29.png)
 
 12. That is it! This demo is just the tip of the iceberg. You can similarly command from over 35+ applications\(See [Integrating Applications](../integrating-applications/)\), get real time work updates and also create workflows between different applications\(See [Command Workflows](../workflows/command-workflows/) and [Event Workflows](../workflows/event-workflows/)**\)** 
 

@@ -28,7 +28,7 @@ Steps to start using an existing template:
 5. You will be taken to the workflows page where you can select to either view your workflows or "Explore Marketplace".  
 
 
-![](../.gitbook/assets/image%20%28233%29.png)
+![](../.gitbook/assets/image%20%28234%29.png)
 
 6. You can now view all the available templates. You can also apply application filters to find specific combinations of applications working together in applications.  
 
@@ -45,7 +45,7 @@ Steps to start using an existing template:
 8. Click on "Use Template" to view it in the builder. You can edit values as needed by you and hit "Save" and it will create a copy of the workflow for you with any updated details that you may have.  
 
 
-![](../.gitbook/assets/image%20%28323%29.png)
+![](../.gitbook/assets/image%20%28324%29.png)
 
 9. After that, it's a regular workflow in your account and you can use it the way you like. It does not impact the template in any way.
 

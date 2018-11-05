@@ -25,7 +25,7 @@ System Commands in YellowAnt let you administer and control your YellowAnt accou
    **Command: help**    
   
 
-![](.gitbook/assets/image%20%28212%29.png)
+![](.gitbook/assets/image%20%28213%29.png)
 
 b. As a means to get assistance with a particular application. Using this lets you learn about the functions or actions available for an application/integration.  
 **Command: help "appname"  
@@ -62,12 +62,12 @@ To schedule a task to fetch your asana tasks everyday at 10:00 AM
 To list the cron jobs you have:  
 
 
-![](.gitbook/assets/image%20%28223%29.png)
+![](.gitbook/assets/image%20%28224%29.png)
 
-![](.gitbook/assets/image%20%28254%29.png)
+![](.gitbook/assets/image%20%28255%29.png)
 
 To delete already scheduled tasks, you can list and hit the "delete" button or use the delete function to do the same:  
 
 
-![](.gitbook/assets/image%20%28265%29.png)
+![](.gitbook/assets/image%20%28266%29.png)
 

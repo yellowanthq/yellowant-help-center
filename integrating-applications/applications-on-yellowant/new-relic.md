@@ -11,7 +11,7 @@
 3. If you are in the Marketplace you can find New Relic under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%28259%29.png)
+![](../../.gitbook/assets/image%20%28260%29.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
 
@@ -37,7 +37,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(ii\) Go to Integrations&gt;API Keys
 
-![](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28205%29.png)
 
 \(iii\) Click on "Create REST API key".
 
@@ -45,7 +45,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(iv\) Click on "Show Key" and copy this for YellowAnt's API Key Field.
 
-![](../../.gitbook/assets/image%20%28322%29.png)
+![](../../.gitbook/assets/image%20%28323%29.png)
 
 8. New Relic is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 

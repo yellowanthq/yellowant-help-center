@@ -6,7 +6,7 @@
 
 _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28288%29.png)
+![](../../.gitbook/assets/image%20%28289%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -37,7 +37,7 @@ Note: Select a team before you click "+ ADD ACCOUNT".
 
 \(i\) Go to User Settings Panel
 
-![](../../.gitbook/assets/image%20%28284%29.png)
+![](../../.gitbook/assets/image%20%28285%29.png)
 
 \(ii\) Go to Personal API Tokens in User Settings and click on Create New Token
 

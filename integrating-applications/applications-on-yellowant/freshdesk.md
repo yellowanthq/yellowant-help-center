@@ -6,7 +6,7 @@
 
         _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28268%29.png)
+![](../../.gitbook/assets/image%20%28269%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -25,17 +25,17 @@ _YellowAnt Marketplace - Search or check out categories_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28315%29.png)
+![](../../.gitbook/assets/image%20%28316%29.png)
 
 6. In this step, YellowAnt asks you for the Freshdesk User API Key and Freshdesk Team URL.  
 
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 
 7. You can find the API Key for Freshdesk in your account under Profile Settings &gt; API. Copy and paste that API Key and Team URL in the text fields on YellowAnt Integration page and hit "SUBMIT". Here, Team URL is private16.freshdesk.com.  
 
 
-![](../../.gitbook/assets/image%20%28225%29.png)
+![](../../.gitbook/assets/image%20%28226%29.png)
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 

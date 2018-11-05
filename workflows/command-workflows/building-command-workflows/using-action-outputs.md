@@ -6,11 +6,11 @@ Example:
 
 In the trigger "incident assignment in Pagerduty", a whole lot of data is sent along with the event for us to use in the subsequent actions.
 
-![](../../../.gitbook/assets/image%20%28214%29.png)
+![](../../../.gitbook/assets/image%20%28215%29.png)
 
 In this step, we see action outputs from Pagerduty being used to create an email body for GMail. At the same time, we can a whole lot of action outputs coming from GMail's send function as well.
 
-![](../../../.gitbook/assets/image%20%28234%29.png)
+![](../../../.gitbook/assets/image%20%28235%29.png)
 
 In this step, we have action outs of both GMail and Pagerduty available to us for use. Also, we can see "create a task" on Asana is generating more action outputs that you can use.
 

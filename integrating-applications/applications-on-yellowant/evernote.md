@@ -6,7 +6,7 @@
 
         _YellowAnt Dashboard - Available Applications Panel_
 
-![](../../.gitbook/assets/image%20%28275%29.png)
+![](../../.gitbook/assets/image%20%28276%29.png)
 
 _YellowAnt Marketplace - Search or check out categories_
 
@@ -15,7 +15,7 @@ _YellowAnt Marketplace - Search or check out categories_
 3. If you are in the Marketplace you can find Evernote under various categories such as all and project management. You can also search for this application in the search bar.  
 
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
 
@@ -27,7 +27,7 @@ _YellowAnt Marketplace - Search or check out categories_
 Note: Select a team before you click "+ ADD ACCOUNT".  
 
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 6. Login to your Evernote account and Evernote is now integrated with YellowAnt.  
 

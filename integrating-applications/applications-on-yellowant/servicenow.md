@@ -12,7 +12,7 @@
 
 4. Once you find the application either in the dashboard or on the Marketplace click on Integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
-![](../../.gitbook/assets/image%20%28250%29.png)
+![](../../.gitbook/assets/image%20%28251%29.png)
 
 5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the ServiceNow OAuth page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  
@@ -44,7 +44,7 @@ To find the values for these fields, follow these steps:
 
 8. Enter the Instance name,Client ID and Client secret which was copied earlier. Click "Allow" in your ServiceNow instance
 
-![Click Allow to complete Integration](../../.gitbook/assets/image%20%28248%29.png)
+![Click Allow to complete Integration](../../.gitbook/assets/image%20%28249%29.png)
 
 9. YellowAnt will send you a message with available functions. Run "Generate Webhooks". A webhook will be generated in your chat console
 

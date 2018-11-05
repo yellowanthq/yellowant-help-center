@@ -18,11 +18,11 @@ Let's take a look at the step by step process for signing up using Slack:
 
 3. Select your team on top right corner and click on "Authorize" once you've read the permissions.
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](../.gitbook/assets/image%20%28261%29.png)
 
 4. You will be taken to the YellowAnt dashboard where you can start integrating applications.
 
-![](../.gitbook/assets/image%20%28298%29.png)
+![](../.gitbook/assets/image%20%28299%29.png)
 
 
 

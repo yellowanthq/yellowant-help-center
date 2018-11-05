@@ -7,7 +7,7 @@
 
 3. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
-![](../../.gitbook/assets/image%20%28312%29.png)
+![](../../.gitbook/assets/image%20%28313%29.png)
 
 4. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the AWS Cloudwatch Access page.  
 Note: Select a team before you click "+ ADD ACCOUNT".  

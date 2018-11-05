@@ -11,14 +11,14 @@ In this section, we see step by step how to create a command workflow on YellowA
 2. This will take you to the "Workflow Builder" page. Select "Create Command Workflow" from the two choices.  
 
 
-![](../../../.gitbook/assets/image%20%28282%29.png)
+![](../../../.gitbook/assets/image%20%28283%29.png)
 
 3. Choose a "Collection" in which you want to add the workflow to, Then, give a command name to the workflow. This will be useful in executing the command later from your chat window. Example, we are naming it "startmyday" and in order to execute it later, we would be using the command "workflow startmyday".
 
 Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some specific set of tasks. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
 
 
-![](../../../.gitbook/assets/image%20%28264%29.png)
+![](../../../.gitbook/assets/image%20%28265%29.png)
 
 4. Click on "Add Action in the left panel.
 
@@ -29,7 +29,7 @@ Note: A collection is a way of segregating workflows into sets in order to keep 
 6. Choose the action you want from to use from the application. Here, we select "fetch mails from a label".  
 
 
-![](../../../.gitbook/assets/image%20%28327%29.png)
+![](../../../.gitbook/assets/image%20%28328%29.png)
 
 7. Fill in the required parameter field with the values you need. Here, we want mails fetched with the label "UNREAD".  
 
@@ -41,7 +41,7 @@ Note: A collection is a way of segregating workflows into sets in order to keep 
 9. Choose the application from which you want to use as your second "Action". Here, we select "Asana".  
 
 
-![](../../../.gitbook/assets/image%20%28215%29.png)
+![](../../../.gitbook/assets/image%20%28216%29.png)
 
 10. Choose the action you want from to use from the application. Here, we select "List user tasks".  
 
@@ -51,12 +51,12 @@ Note: A collection is a way of segregating workflows into sets in order to keep 
 11. Fill in the required parameter field with the values you need. Here, we want tasks fetched from a workspace "yellowant.com".  
 
 
-![](../../../.gitbook/assets/image%20%28205%29.png)
+![](../../../.gitbook/assets/image%20%28206%29.png)
 
 12. You can continue to create a chain of events across many apps. We will save it here. Click the button "Save" in the top panel.  
 
 
-![](../../../.gitbook/assets/image%20%28301%29.png)
+![](../../../.gitbook/assets/image%20%28302%29.png)
 
 13. You will get a notification in your chat window about the creation of this new workflow. You can execute it right from there as well.  
 
@@ -76,7 +76,7 @@ Let’s create one Slack command that gets a high-priority PagerDuty incident, c
 
 
 
-![](../../../.gitbook/assets/image%20%28283%29.png)
+![](../../../.gitbook/assets/image%20%28284%29.png)
 
 1. In the YellowAnt console, click on “Create a Workflow”. 
 

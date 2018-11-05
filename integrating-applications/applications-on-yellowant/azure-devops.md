@@ -2,9 +2,9 @@
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).
 
-![](../../.gitbook/assets/screely-1540193774589.png)
+2.  In the search bar, simply look for “Azure DevOps”, or click on the icon. If you have already integrated the application, you will be able to see it under “My Applications”.
 
-2. If you are in the dashboard, go to the tab called "Applications" and look for "Azure DevOps" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".
+![](../../.gitbook/assets/azure-devops.PNG)
 
 3. Once you find the application either in the dashboard or on the Marketplace click on Integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 

@@ -30,7 +30,7 @@ Step 2. Choose the function you would like to execute \(in this case "send" and 
 Step 3. Fill in the required fields and hit execute.  
 
 
-![](.gitbook/assets/image%20%28331%29.png)
+![](.gitbook/assets/image%20%28332%29.png)
 
 Step 4. Your function has been executed.  
 
@@ -50,7 +50,7 @@ So, in the above scenario, the command would be as follows:
 After typing this, as soon as you hit enter the email gets sent.  
 
 
-![](.gitbook/assets/image%20%28244%29.png)
+![](.gitbook/assets/image%20%28245%29.png)
 
 **Workflows - Events and Commands**
 
