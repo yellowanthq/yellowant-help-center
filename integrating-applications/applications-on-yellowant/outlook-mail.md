@@ -6,11 +6,9 @@ description: COMING SOON
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).
 
-![YellowAnt Dashboard - Available Applications Panel](../../.gitbook/assets/screely-1536641316393.png)
+2. In the search bar, look for "Outlook Mail" or simply click the icon. If you have already integrated the application, you will be able to see it under "My Applications".
 
-![YellowAnt Marketplace - Search or check out categories](../../.gitbook/assets/screely-1536641287613.png)
-
-2. If you are in the dashboard, go to the tab called "Applications" and look for "Outlook Mail" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".
+![](../../.gitbook/assets/omail.PNG)
 
 3. Once you find the application either in the dashboard or on the Marketplace click on integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 

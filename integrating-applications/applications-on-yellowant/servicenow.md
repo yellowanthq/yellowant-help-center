@@ -1,30 +1,24 @@
 # ServiceNow
 
-1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace). 
+1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](https://github.com/yellowanthq/yellowant-help-center/tree/bdad19066023aa6a8b667a1d6f05b72945b49759/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).
+2. In the search bar, look for "ServiceNow" or simply click the icon. If you have already integrated the application, you will be able to see it under "My Applications".
 
-![YellowAnt Dashboard - Available Applications Panel](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/snow.PNG)
 
-2. If you are in the dashboard, go to the tab called "Applications" and look for "ServiceNow" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".
-
-3. If you are in the Marketplace you can find ServiceNow. You can also search for this application in the search bar.
-
-![Find ServiceNow in the App Marketplace](../../.gitbook/assets/image%20%28165%29.png)
-
-4. Once you find the application either in the dashboard or on the Marketplace click on Integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
+3. Once you find the application either in the dashboard or on the Marketplace click on Integrate. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
 ![](../../.gitbook/assets/image%20%28251%29.png)
 
-5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the ServiceNow OAuth page.  
-Note: Select a team before you click "+ ADD ACCOUNT".  
-
+4. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the ServiceNow OAuth page.  
+Note: Select a team before you click "+ ADD ACCOUNT".
 
 ![Select &quot;Add Account&quot;](https://lh5.googleusercontent.com/BN2B8Ug3oatfGneTllvVJJBtmcQo8e1u7mRT-OzlEq4bwslYpQQIitmGHfilBgnn7eC8Vlc5-ND8fliEa2EHp6vng5Txi93folxh265wjWU9ittuSa2FaWo6jSwqSf7MOE7xNEF_)
 
-6. Allow the needed permissions to ServiceNow.
+5. Allow the needed permissions to ServiceNow.
 
 ![](https://lh6.googleusercontent.com/glmh60ldWjLn6XlljsyIDIF96_8-bJW3AydXZJM40L0Nw0b6nTeVIk3lJ-czcLY934YaVfsF3bp3hC5zRzkiHMTENYgP-0nlX6StSusDO-5FLeBWtXFI_ziHPhKXWsxPgnNx0Hx8)
 
-7. Select "Integrate". YellowAnt will ask you to fill in a few details
+6. Select "Integrate". YellowAnt will ask you to fill in a few details
 
 ![Fill in the details of your ServiceNow Account](../../.gitbook/assets/image%20%2883%29.png)
 
@@ -42,25 +36,25 @@ To find the values for these fields, follow these steps:
 
 ![Use these details to integrate your YellowAnt App](https://lh6.googleusercontent.com/ArUnA_NxrQkouiGh4VuAEtVFLzKA-cJ35DjeC16SgdMHL6FYWBuCRKhM8l8e_KLjcnFln2gXhQ7_OaGF7bwOivlaKFV9wQ0wWl8BJUuh40AKqxCzLQHjor906QiSqHIjIUt6RKlL)
 
-8. Enter the Instance name,Client ID and Client secret which was copied earlier. Click "Allow" in your ServiceNow instance
+7. Enter the Instance name,Client ID and Client secret which was copied earlier. Click "Allow" in your ServiceNow instance
 
 ![Click Allow to complete Integration](../../.gitbook/assets/image%20%28249%29.png)
 
-9. YellowAnt will send you a message with available functions. Run "Generate Webhooks". A webhook will be generated in your chat console
+8. YellowAnt will send you a message with available functions. Run "Generate Webhooks". A webhook will be generated in your chat console
 
 ![Webhooks in Slack](https://lh5.googleusercontent.com/x9S-YZnDLkSWIIsh_NumbahgFPkNa7JDTpzA83nJIpmT6R_LeunKzRHPFOJzif6C3-D-Xg4XqA05Ha3vwAF3DgezEeevXq8cAb7A0V2R6Acs36EgRm4jYTyuj5MICj1m59V-JVBA)
 
 ![Webhooks in Microsoft Teams](../../.gitbook/assets/image%20%28126%29.png)
 
-10. In your ServiceNow instance, open "Business Rules" and click "New".
+9. In your ServiceNow instance, open "Business Rules" and click "New".
 
 ![](https://lh5.googleusercontent.com/PTGI_qMgUnxkvy77PvYkgGIIr8JickOnuGVbbOj26QAuuwhzEkXnhvLQeqzG2qFctDoUY2xOnS5ZhbGV-OcFiVyU1owhw3kN9_Ep37O20eGC2eanR1OaYNWi87ECDeLriM1j75MS)
 
- 11. Enter a Name for the new webhooks rule. Choose the table as "Incident" .Select" Advanced Checkbox". Select "after" from the "When" dropdown. Select "Insert". In Role conditions select web\_service\_admin.
+ 10. Enter a Name for the new webhooks rule. Choose the table as "Incident" .Select" Advanced Checkbox". Select "after" from the "When" dropdown. Select "Insert". In Role conditions select web\_service\_admin.
 
 ![](https://lh4.googleusercontent.com/1i7Qxxx7us4EvZvNMsWk9ndLpfhrjxIh0BU1f1iElwf4jA_BcS4tf9-A9cruOYTjlj0Go3YP1Bb9q7LgqZVPfZrXoorzF-Wta4KCEZfidJOdS5BX6X7KymwqNyT9eyy4sHjUk03Z)
 
-12. Go to the "Advanced" tab and paste this code:
+11. Go to the "Advanced" tab and paste this code:
 
 ```text
 (function executeRule(current, previous /*null when async*/) {
@@ -89,5 +83,5 @@ catch(ex) {
 
 ```
 
-13. Your ServiceNow integration is now complete.
+12. Your ServiceNow integration is now complete.
 
